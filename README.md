@@ -1,6 +1,6 @@
 # Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind
 
-This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind
+This is a repository for Fullstack NL Website: Next.js 13, React, Convex, Tailwind
 
 Key Features:
 
